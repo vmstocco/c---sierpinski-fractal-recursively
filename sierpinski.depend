@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1445152608 source:c:\users\vini_\documents\dev\c\sierpinski fractal\sierpinski_carpet.c
+	<GL/glut.h>
+
+1558996583 source:c:\users\vini_\desktop\code-src-master\c\sierpinski fractal\sierpinski_carpet.c
+	<glut.h>
+
+1457925886 c:\users\vini_\desktop\code-src-master\c\sierpinski fractal\glut\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
