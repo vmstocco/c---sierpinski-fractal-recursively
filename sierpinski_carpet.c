@@ -3,7 +3,7 @@
 // Universidade de São Paulo - USP
 // Disciplina: Computação Gráfica
 // Profª.: Maria Cristina
-// Autor: Vinícius Marques Stocco 6427233 - jimmystocco@gmail.com
+// Autor: Vinícius Marques Stocco
 //
 // Trabalho 1 - Fractais - Sierpinski Carpet
 //
